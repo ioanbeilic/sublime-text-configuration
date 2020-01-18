@@ -1,0 +1,24 @@
+{
+	"args":
+	{
+		"by": "characters",
+		"forward": true
+	},
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"command": "move",
+	"context":
+	[
+		{
+			"key": "control",
+			"operand": "sidebar_tree"
+		}
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"theme": "Monokai+.sublime-theme"
+}

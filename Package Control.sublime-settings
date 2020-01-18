@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"Debugger",
+		"Django",
+		"Emmet",
+		"Formatter",
+		"JsPrettier",
+		"Material Monokai",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"RainbowBrackets",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Monokai+",
+		"TypeScript",
+		"VIM Navigation",
+		"Web Inspector"
+	]
+}
